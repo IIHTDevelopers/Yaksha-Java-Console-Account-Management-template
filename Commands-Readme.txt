@@ -1,5 +1,5 @@
 * To run your project use command:
-	mvn clean install exec:java -Dexec.mainClass="com.iiht.training.account.AccountMain"
+	mvn clean install exec:java -Dexec.mainClass="com.iiht.training.incometax.controller.IncomeTaxController"
 
 * To test your project, use the command
 	mvn test
